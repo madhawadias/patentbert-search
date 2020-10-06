@@ -64,7 +64,7 @@
                  $.each(response,function(key,val){
                  console.log(val);
                  console.log(val[0]['corpus'])
-                    html+="<p>"+val[0]['corpus']+"<p>"
+                    html+="<p>"+val[0]['corpus']+val[0]['points']+"<p>"
                 });
                 html +="<br>";
                 var element = document.getElementById("search-result");

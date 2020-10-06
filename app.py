@@ -1,5 +1,6 @@
 from flask import Flask,  render_template, request, jsonify
 from patent_search import patent_filter
+import os
 
 
 app = Flask(__name__)
@@ -20,8 +21,12 @@ def get_query():
     query = request.form['query']
     b = patent_filter(a_query = query)
     return jsonify(result=b)
+
+
 if __name__ == '__main__':
     app.run()
+
+
 
 
 

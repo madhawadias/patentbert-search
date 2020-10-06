@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "patentbert-sudo",
+  "private_key_id": "d782d39c3b180c17e16fbd01bb78f086b3980f5a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmfHldFWIdjsXw\nePr2H+9/7YugafHiEJYzmMbHi3T/msjmjxi7CvP18YSSZEGYZkyJR9Q5FH2itKu6\n0+RLElf1+5uHoYkSK3rC5WdUwhKNTzKER0IicYfMhHJ24poRUfaR09HgoOFPI4yf\nTwviD3VdGsLXQN5+J+BcBEaioAf7U/h71HQXnW+jvfQ9IiBzQ4MmBwW7ycRhZvFI\nbyzLRI8N3yIaIi8ncyZCabvoF8ogakdyvp6yI2ZDQiMxNkmxns9cqMrENfBa8ghb\nEfrvicG/q0v0NJ6jvbFjufzjE0ulXkK75P2O0Kr5pvXbynbdZbZ2YpIVigJbKAot\nZECSShZxAgMBAAECggEAAsuvTAlaYu2tVDrr1+s0Xd0SzahJyAaIRyiHGf21Ar/K\nJNj9TNLDwvsBw2WMlm8NVPbQUP8PlwZapeH+AOa3dGl7tJzZTOVPA+vPPuSdZCMS\n0ZbSvPpUEfKda3KlrKnILq20ZgW9ktMhfuFYbTzeNyiGYg/0TIEF6vWlbACs8aLx\n2g9T4AH8bm1USBXV3IsoMA0znzGVYlUBRFI9ucUf/z44URwQ7PZMeyhrzy63aWor\nhijlmwGExB6J4npDAPTl68ec6JL6oKadksuS6b3bF3IWedmlh2qDEYYMSRltVVCz\nk7ho6AXtciVFTRNH3fXwQgUlm43yoK0RDWbEb+DteQKBgQDpw1jNTadYBXFsj76e\nEi+NS8nefT81cFR8fNOiT3DSowhBlIwTbgECM8B06D0cbj+e62Utq034AbCDUPYY\nwADuOhzhDYDdrfal5ckIhNOY571RFSrGbzOyzBlA5eAl5jFL/3UPzJFcEDKE4ykb\n9sKFKXuEudZ25tVByULsBycy1QKBgQC2UskhL6Yzb9SQpzJwQ0xROWgl33eyqzH0\nFGqQLiqO2q4JvEeXH6F+F4YK9X8euDIdzz9xSCvnEijT3PXBsy4/4whwIBxtIqHF\n7LOr+bYVACGj4p2WW9exlha3xIHKCZtAYQUgQNUB5a65s4XNhvV9YJTKbsNv3CTJ\ncgNcEdsLLQKBgAYp4G2JXqAzhIoYQC5qzFYtaWU0aDZAf/nIUMw2zALBybXw9MCO\nZfho5OowNWxKe+L00fYiTiv732uW9uYwKdYeMiS89mjh7V7ycBqJZgriEVvR8w7I\nX9SXDRNo/EADkckvMyb3fd2vj6VxV+Qk3XwlW9xkCgOYkobph5oxlhcBAoGAUlmI\nEN41wmvTZdau+HfdI567RMfvh5q9gFIsY50GiemJzEnnSAH4bjxvxclmtlhaAo7W\nR/NiKQdRu4fE1M16qU6BRCusyzpmOUCVUqsCK/AYQa6coQownTx+XFh8iuXV4rkv\nmIbP7wBv795/I/q+LPgPnHN1ALQ9RWOi0tYZyq0CgYEAkMCcCl9ESxGrJp9RKJrX\nWJ83r+e3YU3YscysUtv8qJcpoXK5g538eM71IwT0eA7iQsaW00Tqe38jjw4/cPWJ\nnXB8jqlqy4iGtueECsZzUdUYZI0uA1/fTseUpOfRIp3Hkvtt0C5kU6MLO7cGs2/N\n/e28/O72uu8BO8/4GfIIvgs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "patent-bert-alpha@patentbert-sudo.iam.gserviceaccount.com",
+  "client_id": "115522768527268351399",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/patent-bert-alpha%40patentbert-sudo.iam.gserviceaccount.com"
+}
